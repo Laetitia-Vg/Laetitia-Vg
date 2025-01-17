@@ -1,16 +1,45 @@
-## Hi there 👋
+# Bienvenue sur mon Github ! 👋🏼
 
-<!--
-**Laetitia-Vg/Laetitia-Vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **Laetitia VONG**, une future **Data Analyst** passionnée par l'analyse de données et les technologies. 
 
-Here are some ideas to get you started:
+Depuis septembre 2024, je suis en formation à la **Wild Code School**, où j'apprends à manipuler des données en **Python** et **SQL** avec des outils Visual Studio Code,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mes objectifs
+
+Je suis actuellement à la recherche d'une alternance en **Chef de projet IA & Data** pour **Mars 2025**. 
+
+Mon objectif est de rejoindre une équipe dynamique où je pourrais mettre en pratique mes compétences et apprendre davantage dans un environnement professionnel.
+
+## 💼 Mes projets
+### 1. **Outil de recommandation**
+Notre 2ème projet était de réaliser un **outil de recommandation** de films via les bases de données **IMDb** et **TMDb**.
+
+Les livrables attendus étaient un **Dashboard** dynamique et une **interface** réalisée avec **Streamlit**.
+
+
+Découvrez le projet en détail [ici](https://github.com/Laetitia-Vg/P2-WCS2024-Outil_recommandation)
+
+
+### 2. **Mission Data**
+Dans le cadre de ma formation, j'ai réalisé un projet d'analyse des tendances criminelles à Los Angeles. Le but était de **recommander des zones à risque** et d'identifier des **mesures de prévention**.
+
+Le projet comprend un **Dashboard** interactif créé avec **Tableau** et une analyse en profondeur réalisée avec **Python**. 
+
+Découvrez le projet en détail [ici](https://github.com/Laetitia-Vg/Mission_data).
+
+## 📚 Compétences
+
+- **Python** (Pandas, Numpy, Matplotlib, Seaborn, Machine Learning)
+- **Power BI** et **Tableau** (visualisation de données)
+- **SQL** (requêtes et gestion de bases de données)
+- **Canva** (création de présentations)
+  
+## 📬 Me contacter
+
+Vous pouvez me joindre via [LinkedIn](https://www.linkedin.com/in/laetitia-vong/)
+
+## 🚀 À venir
+
+Je suis en pleine recherche d'une alternance pour **Mars 2025** et je serai ravie d'échanger avec vous !
+
+
