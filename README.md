@@ -6,8 +6,6 @@ Depuis septembre 2024, je suis en formation à la **Wild Code School**, où j'ap
 
 ## 🎯 Mes objectifs
 
-Je suis actuellement à la recherche d'une alternance en **Chef de projet IA & Data** pour **Mars 2025**. 
-
 Mon objectif est de rejoindre une équipe dynamique où je pourrais mettre en pratique mes compétences et apprendre davantage dans un environnement professionnel.
 
 ## 💼 Mes projets
@@ -40,6 +38,6 @@ Vous pouvez me joindre via [LinkedIn](https://www.linkedin.com/in/laetitia-vong/
 
 ## 🚀 À venir
 
-Je suis en pleine recherche d'une alternance pour **Mars 2025** et je serai ravie d'échanger avec vous !
+Je continue mon cursus en alternance à partir de Mars 2025.
 
 
